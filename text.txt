@@ -1,2 +1,2 @@
-Toto je novy nezmeneny subor
+Toto je zmeneny subor vo vetve subor
 
